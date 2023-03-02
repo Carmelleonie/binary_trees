@@ -1,1 +1,1 @@
-Write a function that checks if a node is a leaf
+Write a function that checks if a given node is a root
