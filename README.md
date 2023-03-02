@@ -1,1 +1,1 @@
-Write a function that deletes an entire binary tree
+Write a function that checks if a node is a leaf
