@@ -1,1 +1,1 @@
-Write a function that goes through a binary tree using post-order traversal
+Write a function that measures the height of a binary tree
