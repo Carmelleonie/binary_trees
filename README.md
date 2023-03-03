@@ -1,1 +1,2 @@
-Write a function that checks if a given node is a root
+js
+Write a function that goes through a binary tree using pre-order traversal
